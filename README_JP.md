@@ -56,11 +56,5 @@ BCASimのシミュレーション結果を可視化したデモです。この�
 * [BCASim](https://github.com/bcasim/bcasim) - 攻撃分析のためのブロックチェーンシミュレータ
 * [BCASim Visualization](https://github.com/bcasim/bcasim-visualization) - BCASimのシミュレーション結果の可視化ツール
 
-## 著者
-質問や意見などがございましたらこちらまでお気軽にご連絡ください。
-
-* bigmakiinum@outlook.jp
-* https://github.com/resoto
-
 ## ライセンス
 * [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
